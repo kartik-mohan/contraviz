@@ -1,4 +1,4 @@
-# Contraviz - A Global COVID19 Trend Tracking Visualizer
+<h1><p align = "center">Contraviz - A Global COVID19 Trend Tracking Visualizer</p></h1>
 
 ## Project Overview
 * Created an end-to-end webapp for real-time data analytics on COVID-19 to gain insights into the COVID19 trends and identified the sentiment of people towards the vaccination drive across the globe
